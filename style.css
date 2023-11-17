@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    border: 2px solid red;
+    width: 50%;
+    margin: 50px;
+}
+
+.cont1{
+    width: 95%;
+    height: 10%;
+    border: 2px solid red;
+    margin: 20px;
+}
+
+.cont2{
+    width: 95%;
+    height: 20%;
+    border: 2px solid red;
+    margin: 20px;
+    padding: 5px;
+}
+
+.cont3{
+    width: 97%;
+    height: 40%;
+    border: 2px solid red;
+    margin: 12px;
+    padding: 8px
+}
+
+.cont3-1{
+    width: 101%;
+    height: 35%;
+    border: 2px solid red;
+    
+    
+    
+}
+
+.cont3-2{
+    width: 101%;
+    height: 35%;
+    border: 2px solid red;
+}
+
+span{
+    border: 2px solid red;
+    padding: 5px;
+}
+
+li{
+    border: 2px solid red;
+    padding: 10px;
+}
+
